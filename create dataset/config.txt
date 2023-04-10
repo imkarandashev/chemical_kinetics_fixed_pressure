@@ -1,0 +1,16 @@
+ 9.963438307155421 	Pressure (bar from 0.1 to 120)
+ 2187.588066687218 	Temperature (K from 300 to 4500)
+ 11.160175540448078 	H2 molar share
+ 6.651097575596232 	O2 molar share
+ 0.0 	H2O molar share
+ 0.0 	OH molar share
+ 0.0 	HO2 molar share
+ 0.0 	H2O2 molar share
+ 0.0 	H molar share
+ 0.0 	O molar share
+ 1.2999534102179293 	N2 molar share
+ 12.348784372692755 	Ar molar share
+ 0.1 	Time step dt, microseconds
+ 500 	Number of time steps
+ result.txt 	File of results
+ 2687746 	Read control: do not change
